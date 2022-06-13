@@ -13,6 +13,7 @@ This program packages mods for Thunderstore.io. The process to create a mod is r
  - Added auto-zipping for the file (following the ThunderStore name format for downloaded mods)
  - Reorganized code to sequence actions better
  - Removed automatically opening the directory (temporarily)
+ - Forced usage of .png instead of .png/.jpg
 
 # Upcoming features
  - File size reduction, this program is reletively large
