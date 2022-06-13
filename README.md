@@ -7,10 +7,13 @@ This program packages mods for Thunderstore.io. The process to create a mod is r
  - Use the README Editor to either create a readme, or under 'Additions', check 'Exclude Readme' to skip this step
  - Click pack, and wait a few.
 
-# Known issues
- - When you pack and the explorer opens, its just to your documents folder.
+# Changelog
+ - Added autofill, I would recommend keeping it on
+ - Changed how directories are created
+ - Added auto-zipping for the file (following the ThunderStore name format for downloaded mods)
+ - Reorganized code to sequence actions better
+ - Removed automatically opening the directory (temporarily)
 
 # Upcoming features
- - Autofill, let's automatically fill in some properties.
- - Optimization, let's try to reduce that file size.
- - More (still being decided upon) features.
+ - File size reduction, this program is reletively large
+ - Proper support for auto-opening the directory to the mod folder
