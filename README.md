@@ -14,6 +14,7 @@ This program packages mods for Thunderstore.io. The process to create a mod is r
  - Changed how directories are created
  - Changed usage of .png/.jpg to just .png
  - Reorganized code to sequence actions better
+ - Reorganized code to use less memory
 
 # Upcoming features
  - File size reduction, this program is reletively large
